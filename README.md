@@ -1,11 +1,8 @@
-<h2 align="left">Hi 👋! My name is Joaquin Gamboa and I'm an Computer Engineer from Argentina</h2>
+<h2 align="left">Hi 👋! I'm Joaquin Gamboa</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joacofg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=joacofg&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<p align="left">I'm a Computer Engineering student with a strong passion for programming, especially in Python. I love exploring new technologies and using them to develop innovative projects that solve real-world problems. My goal is to continuously grow as a developer while contributing to exciting ideas that drive progress in technology.<br><br>I’m always open to collaborating on projects that challenge creativity and foster learning. Let’s connect and bring impactful ideas to life! 🚀</p>
 
 ###
 
@@ -35,7 +32,14 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joacofg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=joacofg&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<img align="left" height="130" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"  />
 
 ###
 
