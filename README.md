@@ -1,30 +1,48 @@
-<!-- INICIO DEL README -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Joaquin%20Gamboa&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<h2 align="left">Hi ! 👋 I'm Joaquin Gamboa</h2>
+## 📌 About Me
+- 🔭 I'm currently working on nebula.ai, a self-hosted semantic AI gateway for teams that want to reduce premium LLM spend without losing control over routing, fallback behavior, or operator visibility.
+- 🌱 I'm currently learning Python, Go, C and Kubernetes
+- 👯 I'm looking to collaborate on open source projects
+- 🤝 I'm looking for help with learning system design
 
-<p align="left">
-  I'm a Computer Engineering student with a strong passion for programming, especially in Python.
-  I love exploring new technologies and using them to develop innovative projects that solve real-world problems.
-  My goal is to continuously grow as a developer while contributing to exciting ideas that drive progress in technology.
-  I’m always open to collaborating on projects that challenge creativity and foster learning. Let’s connect and bring impactful ideas to life!
-</p>
 
-<br />
+## 🧠 My Focus Areas
+- Backend Development
+- AI Engineering
+- System Design
 
-<!-- Íconos de tecnologías -->
+
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,bash,docker,mysql,git,github,linux,java,javascript,html,css,python,postgresql,tensorflow,postman" height="30" />
+  <img src="https://streak-stats.demolab.com/?user=joacofg&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="joacofg's GitHub Streak" width="49%" />
 </p>
 
-<br />
 
-<img align="right" height="125" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3VvbjR2dmdtYThhdHZrcWtpOG1oMXA0MjZ4eXRpOGZkcTQ0ZWdiMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5Zesu5VPNGJlm/giphy.gif" alt="developer gif" />
+## 🛠️ Languages & Tools
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joacofg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=joacofg&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-</div>
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="48" height="48" style="margin: 4px;" /></p>
 
-<br clear="both" />
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /></p>
 
-<img src="https://raw.githubusercontent.com/joacofg/joacofg/output/snake.svg" alt="Snake animation" />
+> ## DevOps & Cloud
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <a href="https://github.com/joacofg">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joacofg&langs_count=8&layout=compact&theme=gruvbox&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="joaquin-f-b154621b9" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:joaquinfernandezdegamboa@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
