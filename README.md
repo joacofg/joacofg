@@ -6,18 +6,24 @@
 - 👯 I'm looking to collaborate on open source projects
 - 🤝 I'm looking for help with learning system design
 
-
 ## 🧠 My Focus Areas
 - Backend Development
 - AI Engineering
 - System Design
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=joacofg&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="joacofg's GitHub Streak" width="49%" />
 </p>
 
+## 🐍 Real Contributions
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joacofg/joacofg/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joacofg/joacofg/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/joacofg/joacofg/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ## 🛠️ Languages & Tools
 
@@ -41,8 +47,3 @@
 
 ## 🔗 Connect with Me
 <p align="center"><a href="joaquin-f-b154621b9" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:joaquinfernandezdegamboa@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
