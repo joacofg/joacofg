@@ -16,7 +16,6 @@
   <img src="https://streak-stats.demolab.com/?user=joacofg&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="joacofg's GitHub Streak" width="49%" />
 </p>
 
-## 🐍 Real Contributions
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joacofg/joacofg/output/github-contribution-grid-snake-dark.svg" />
