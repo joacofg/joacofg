@@ -21,18 +21,32 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,js,java,c,fastapi,docker,kubernetes,git,linux,bash,postgres,mongodb,mysql,graphql" alt="Languages and tools" />
+  <img src="https://skillicons.dev/icons?i=python,go,js,java,c,fastapi,docker,kubernetes,git,linux,bash,postgres,mongodb,mysql,graphql&perline=15" alt="Languages and tools" />
 </p>
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/ollama/white" alt="Ollama" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="60">
+      <img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="40" height="40" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://cdn.simpleicons.org/ollama/white" alt="Ollama" width="40" height="40" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+    </td>
+    <td align="center" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joacofg&layout=compact&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="Most used languages" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=joacofg&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=joacofg&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=1800" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joacofg&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" alt="Most used languages" />
+  </picture>
 </p>
