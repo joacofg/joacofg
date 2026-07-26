@@ -3,7 +3,7 @@
 ## 📌 About Me
 
 - 🔭 I'm currently working on **nebula.ai**, a self-hosted semantic AI gateway for teams that want to reduce premium LLM spend without losing control over routing, fallback behavior, or operator visibility.
-- 🌱 I'm currently learning **Python, Go, C and Kubernetes**
+- 🌱 I'm currently learning **Go and Kubernetes**
 - 👯 I'm looking to collaborate on **open source projects**
 - 🤝 I'm looking for help with **system design**
 
